@@ -6,15 +6,15 @@ changelog.txt
 #Ignorar pela extensão
 
 *.log
-ou
-*.txt
-ou 
-o final do arquivo
+
+
+ 
+#o final do arquivo
 
 #Ignorar uma pasta
 
-é usado a barra "/" pro sistema operacional saber que é uma pasta
+#é usado a barra "/" pro sistema operacional saber que é uma pasta
 
-por exemplo
+#por exemplo
 
 logs/
