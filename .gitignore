@@ -1,0 +1,20 @@
+#Ignorar por nome do arquivo
+
+
+changelog.txt
+
+#Ignorar pela extensão
+
+*.log
+ou
+*.txt
+ou 
+o final do arquivo
+
+#Ignorar uma pasta
+
+é usado a barra "/" pro sistema operacional saber que é uma pasta
+
+por exemplo
+
+logs/
